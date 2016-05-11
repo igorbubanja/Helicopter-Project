@@ -1,0 +1,1 @@
+"./MS2ID.obj" "./button.obj" "./buttonSet.obj" "./circBuf.obj" "./isqrt.obj" "./rit128x96x4.obj" "./startup_ccs.obj" "./ustdlib.obj" "../lm3s1968.cmd" -l"libc.a" -l"P:\courses\ENCE361\StellarisWare\driverlib\ccs-cm3\Debug\driverlib-cm3.lib" 
